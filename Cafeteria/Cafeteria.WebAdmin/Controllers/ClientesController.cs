@@ -7,7 +7,7 @@ using System.Web.Mvc;
 
 namespace Cafeteria.WebAdmin.Controllers
 {
-    public class ClientesController : Controller
+    public class ClientesController : Controller 
     {
         ClientesBL _clientesBL;
 
